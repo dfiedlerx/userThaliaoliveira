@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img width="600em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dfiedlerx&theme=synthwave" alt="userThaliaoliveira" />
+  <img width="600em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dfiedlerx&theme=light" alt="userThaliaoliveira" />
 </p>
 
 <p align="center"> 
