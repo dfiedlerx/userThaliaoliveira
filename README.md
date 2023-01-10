@@ -28,7 +28,7 @@
 </p>
 
 <p align="center"> 
-  <img width="600em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=userThaliaoliveira&layout=compact&langs_count=7&theme=synthwave"/>
+  <img width="600em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfiedlerx&layout=compact&langs_count=7&theme=synthwave"/>
 </p>
 <div style="display: inline_block">
     <img align="right" alt="thalia-pic" height="100" style="border-radius:50px;" src="https://user-images.githubusercontent.com/96347094/147705579-1ab1a119-49bb-419e-8433-e7ff89bdab83.png">
